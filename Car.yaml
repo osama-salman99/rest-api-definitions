@@ -1,0 +1,10 @@
+Car:
+  type: object
+  description: A Car
+  properties:
+    name:
+      type: string
+      description: "The name of the car"
+    model:
+      description: "The model of the car"
+      type: string
